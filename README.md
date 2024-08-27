@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fepegar&count_private=true&show_icons=true)](https://github.com/fepegar/github-readme-stats)
+[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fepegar&count_private=true&show_icons=true)](https://github.com/fepegar/github-stats)
 
 <!--
 **fepegar/fepegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
